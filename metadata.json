@@ -1,0 +1,5 @@
+{
+  "name": "AlgoMinds - Universal DSA Platform",
+  "description": "An intelligent Data Structures & Algorithms learning platform. It analyzes user code and problem statements, detects topic mismatches, corrects logic, and auto-generates step-by-step visualizations for any algorithm.",
+  "requestFramePermissions": []
+}
